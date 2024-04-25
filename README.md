@@ -8,3 +8,12 @@ Hello, my name is Mateusz Scharmach and I am a third year student of Computer Sc
 
 - [Ktulu Online (React + NodeJS)](https://github.com/Scharmi/ktuluOnline)\
   Online version of a complex RPG
+
+- [Rick and Morty character viewer (React + Redux)](https://github.com/Scharmi/rick-and-morty)\
+  A webapp in which you an browse characters from Rick and Morty (from external API) and informations about them
+  
+- [Warsaw bus punctuality analysis (Python)](https://github.com/Scharmi/python-buses)\
+  Online version of a complex RPG
+  
+- [Ktulu Online (React + NodeJS)](https://github.com/Scharmi/ktuluOnline)\
+  Online version of a complex RPG
