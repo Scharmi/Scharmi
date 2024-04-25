@@ -3,7 +3,7 @@ Hello, my name is Mateusz Scharmach and I am a third year student of Computer Sc
 Arcade game written using Direct2D
 
 [System of rooms (C++ / Direct3D)](https://github.com/Scharmi/University-Projects/tree/master/Graphics%20in%20Windows/jnp3-direct3d)\
-System of rooms in which you can walk with first-person view, developed using Direct3D\
+System of rooms in which you can walk with first-person view, developed using Direct3D \
 
 
 
