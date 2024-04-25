@@ -1,5 +1,10 @@
 Hello, my name is Mateusz Scharmach and I am a third year student of Computer Science and Maths at Univerity of Warsaw. I have several academic and non-academic projects in my repositories, I listed the most important of them below:
 
+Space Shooter[link]
+Arcade game written using Direct2D
+
+System of rooms[link[
+
 
 <!--
 **Scharmi/Scharmi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
