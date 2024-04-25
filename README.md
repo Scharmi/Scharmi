@@ -18,5 +18,6 @@ Hello, my name is Mateusz Scharmach and I am a third year student of Computer Sc
 - [Restaurant Order Handler (C++)](https://github.com/Scharmi/University-Projects/tree/master/PW%20(Concurrent%20Programming)/Cyrk)\
   A complex program that simulates taking and preparing orders in a fast-food restaurant, a project for Concurrent Programming course
 
-- [Online Radio (C++)](https://github.com/Scharmi/University-Projects/tree/master/SiK%20(Computer%20Networks)/Online%20Radio)
+- [Online Radio (C++)](https://github.com/Scharmi/University-Projects/tree/master/SiK%20(Computer%20Networks)/Online%20Radio)\
+  An online radio (sender and receiver) used to stream music on given address and port
   
