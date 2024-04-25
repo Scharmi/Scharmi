@@ -21,3 +21,5 @@ Hello, my name is Mateusz Scharmach and I am a third year student of Computer Sc
 - [Online Radio (C++)](https://github.com/Scharmi/University-Projects/tree/master/SiK%20(Computer%20Networks)/Online%20Radio)\
   An online radio (sender and receiver) used to stream music on given address and port
   
+- [Wiki Scraper (Scala)](https://github.com/Scharmi/wiki-scraper)\
+  A program that scrapes pages on Wikipedia and finds the shortest path (made from links in articles) between the two given on the input
