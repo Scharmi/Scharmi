@@ -1,8 +1,11 @@
-Hello, my name is Mateusz Scharmach and I am a third year student of Computer Science and Maths at Univerity of Warsaw. I have several academic and non-academic projects in my repositories, I listed the most important of them below:
-[Space shooter](https://github.com/Scharmi/University-Projects/tree/master/Graphics%20in%20Windows/space-shooter)
+Hello, my name is Mateusz Scharmach and I am a third year student of Computer Science and Maths at Univerity of Warsaw. I have several academic and non-academic projects in my repositories, I listed the most important of them below:\
+[Space shooter (C++ / Direct2D)](https://github.com/Scharmi/University-Projects/tree/master/Graphics%20in%20Windows/space-shooter)\
 Arcade game written using Direct2D
 
 System of rooms[link]\
+System of rooms in which you can walk with first-person view, developed using Direct3D\
+
+
 
 
 
