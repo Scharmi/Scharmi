@@ -12,7 +12,7 @@ Hello, my name is Mateusz Scharmach and I am a third year student of Computer Sc
 - [Rick and Morty character viewer (React + Redux)](https://github.com/Scharmi/rick-and-morty)\
   A webapp in which you an browse characters from Rick and Morty (from external API) and informations about them
   
-- [Warsaw bus punctuality analysis (Python)](https://github.com/Scharmi/python-buses)\
+- [Warsaw bus punctuality analysis (Python)](https://github.com/Scharmi/University-Projects/tree/master/Python%20Course/Warsaw%20Bus%20Puntuality%20Analysis)\
   Analysis of Warsaw buses punctuality using API of their positions and timetables
   
 - [Restaurant Order Handler (C++)](https://github.com/Scharmi/University-Projects/tree/master/PW%20(Concurrent%20Programming)/Cyrk)\
